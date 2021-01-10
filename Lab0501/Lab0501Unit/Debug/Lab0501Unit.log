@@ -1,0 +1,3 @@
+﻿  Lab0501Unit.cpp
+C:\Users\dell\source\repos\Lab0501\Lab0501Unit\Lab0501Unit.cpp(16,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab0501Unit.vcxproj -> C:\Users\dell\source\repos\Lab0501\Debug\Lab0501Unit.dll
